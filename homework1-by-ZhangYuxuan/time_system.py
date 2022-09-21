@@ -1,5 +1,5 @@
 '''
-author：M22003-张宇轩（Zhang Yuxuan）-122413910080
+author：Zhang Yuxuan
 localtime->BDStime->GPStime for any time
 '''
 
